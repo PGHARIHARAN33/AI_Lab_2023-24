@@ -42,7 +42,8 @@ print("The optimal value is : ", end="")
 print(minimax(0, 0, True, scores, treeDepth))
 ```
 ### Output:
-![Minma](https://github.com/user-attachments/assets/15326df1-e7c0-4009-b7d9-f731bf629cff)
+
+![Screenshot 2025-03-11 111033](https://github.com/user-attachments/assets/c3dd4fc9-b535-49a2-b6c3-2723d1687cc9)
 
 
 ### Result:
