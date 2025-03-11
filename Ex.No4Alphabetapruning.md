@@ -1,4 +1,4 @@
-![Screenshot 2025-03-11 111422](https://github.com/user-attachments/assets/c9896410-8b17-4ecd-904b-e325b9dddbbc)# Ex.No: 4   Implementation of Alpha Beta Pruning 
+# Ex.No: 4   Implementation of Alpha Beta Pruning 
 ### DATE: 11-03-2025                                                                    
 ### REGISTER NUMBER : 212222040050
 ### AIM: 
